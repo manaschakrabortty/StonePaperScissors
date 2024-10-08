@@ -1,2 +1,3 @@
 StonePaperScissors 
 using js...
+![Screenshot 2024-10-09 000210](https://github.com/user-attachments/assets/27af0bff-b213-471f-9484-747ec5bfd9b3)
